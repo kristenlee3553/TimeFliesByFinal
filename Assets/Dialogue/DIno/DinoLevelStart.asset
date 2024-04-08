@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeeb9316df4e21f4c9c2dd596a8e8265, type: 3}
+  m_Name: DinoLevelStart
+  m_EditorClassIdentifier: 
+  dialogue:
+  - dialogue: Where are we...?
+    name: Wizard
+    checkpoint: 0
+  - dialogue: It seems we've been sent back to the time of dinosaurs.
+    name: Fairy
+    checkpoint: 0
+  - dialogue: I feel...weak.
+    name: Wizard
+    checkpoint: 0
+  - dialogue: I don't.
+    name: Fairy
+    checkpoint: 0
+  - dialogue: ...
+    name: Wizard
+    checkpoint: 0
+  - dialogue: Hey cheer up! We'll get your powers back in no time!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Did the Time Lord take my powers away?
+    name: Wizard
+    checkpoint: 0
+  - dialogue: Hmmm. No, I think he scacttered your powers across different times.
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Look, I can see orbs in this time period.
+    name: Fairy
+    checkpoint: 0
+  - dialogue: I bet the more orbs we collect, the stronger you will become!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Oh I see a portal too!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Let's try to get to the portal while collecting as many orbs as we
+      can!
+    name: Fairy
+    checkpoint: 1

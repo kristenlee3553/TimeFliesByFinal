@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeeb9316df4e21f4c9c2dd596a8e8265, type: 3}
+  m_Name: OnGoldenApplePicked
+  m_EditorClassIdentifier: 
+  dialogue:
+  - dialogue: Here is the golden apple.
+    name: Wizard
+    checkpoint: 0
+  - dialogue: We passed your exam...
+    name: Wizard
+    checkpoint: 0
+  - dialogue: This can't be!
+    name: TimeLord
+    checkpoint: 0
+  - dialogue: ...
+    name: TimeLord
+    checkpoint: 0
+  - dialogue: I'm afraid it has to come to this...
+    name: TimeLord
+    checkpoint: 0
+  - dialogue: Be gone!
+    name: TimeLord
+    checkpoint: 1
