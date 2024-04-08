@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeeb9316df4e21f4c9c2dd596a8e8265, type: 3}
+  m_Name: FirstFreezeAndTimeTravel
+  m_EditorClassIdentifier: 
+  dialogue:
+  - dialogue: I bet you I can change time while freezing this apple!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: ...
+    name: TimeLord
+    checkpoint: 0
+  - dialogue: I see... Since I'm freezing this apple, it will not disappear when
+      I change time.
+    name: Fairy
+    checkpoint: 0
+  - dialogue: I can only freeze one object at a time though...
+    name: Fairy
+    checkpoint: 1
+  - dialogue: No worries, wizard I think we have enough knowledge to pass this exam!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: If only, I could reach the apple...
+    name: Wizard
+    checkpoint: 0

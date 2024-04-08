@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeeb9316df4e21f4c9c2dd596a8e8265, type: 3}
+  m_Name: FIrstDia
+  m_EditorClassIdentifier: 
+  dialogue:
+  - dialogue: Hey wake up!
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Just 5 more minutes...
+    name: Wizard
+    checkpoint: 0
+  - dialogue: Did you really just go back to sleep after Headmaster Chronos personally
+      summoned us?
+    name: Fairy
+    checkpoint: 0
+  - dialogue: Zzzzzzzz...
+    name: Wizard
+    checkpoint: 0
+  - dialogue: "Sometimes I question why the Headmaster decided to take you under
+      his wing\u2026"
+    name: Fairy
+    checkpoint: 0
+  - dialogue: "Come on, let's go. You don\u2019t want to make him upset."
+    name: Fairy
+    checkpoint: 1
